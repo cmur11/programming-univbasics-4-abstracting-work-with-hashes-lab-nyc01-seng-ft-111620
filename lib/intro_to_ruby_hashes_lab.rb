@@ -8,6 +8,6 @@ end
 
  def update_counting_hash(hash, key)
     key[hash] = 
-     if key[hash] !=
-    if the provided key is present, increment its value by 1
+    # if key[hash] !=
+    # if the provided key is present, increment its value by 1
  end
