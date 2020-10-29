@@ -7,7 +7,7 @@ def read_from_hash(hash, key)
 end
 
 def update_counting_hash(hash, key)
-  key[hash] =
-  # if the provided key is not present in the hash, add it and assign it to the value of 1
+  key[hash] = 2
+  if key[hash] 
   # if the provided key is present, increment its value by 1
 end
